@@ -5,8 +5,8 @@ logo: satyalytics.github.io/static/img/dp.png
 github: https://github.com/satyalytics
 about: Somewhere in Data
 
-baseurl: "https://satyalytics.github.io/"
-url: "/satyalytics"
+baseurl: "satyalytics.github.io"
+url: "https://satyalytics.github.io"
 
 allowsearch: true
 
