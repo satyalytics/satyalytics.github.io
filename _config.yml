@@ -25,4 +25,5 @@ paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
+remote_theme: codeasashu/hcz-jekyll-blog
 gems: [jekyll-paginate, jekyll-gist]
