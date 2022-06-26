@@ -7,7 +7,7 @@ about: Somewhere in Data
 
 site:
   baseurl: "satyalytics.github.io"
-  url: ""
+  url: "satyalytics.github.io"
 
 allowsearch: true
 
