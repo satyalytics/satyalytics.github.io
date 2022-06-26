@@ -1,16 +1,16 @@
-title: John Smith
-description: My Personal Blog
+title: Satya Pati
+description: My Personal Website
 author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+logo: /hcz-jekyll-blog/static/img/dp.png
+github: https://github.com/satyalytics
+about: Somewhere in Data
 
 baseurl: ""
 url: ""
 
 allowsearch: true
 
-disqus_shortname: aboutashu
+disqus_shortname: satya
 google_analytics: UA-72862926-1
 
 share:
