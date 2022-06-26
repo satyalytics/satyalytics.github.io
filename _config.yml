@@ -6,7 +6,7 @@ github: https://github.com/satyalytics
 about: Somewhere in Data
 
 baseurl: "satyalytics.github.io"
-url: "https://satyalytics.github.io"
+url: "satyalytics.github.io"
 
 allowsearch: true
 
