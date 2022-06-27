@@ -5,8 +5,8 @@ logo: /static/img/dp.png
 github: https://github.com/satyalytics
 about: Somewhere in Data
 
-baseurl: "satyalytics.github.io"
-url: "satyalytics.github.io"
+baseurl: ""
+url: ""
 
 allowsearch: true
 
@@ -25,5 +25,4 @@ paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
-remote_theme: codeasashu/hcz-jekyll-blog
 gems: [jekyll-paginate, jekyll-gist]
